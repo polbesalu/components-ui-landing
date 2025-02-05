@@ -63,7 +63,7 @@ export function SiteHeader() {
             <Input type="search" placeholder="Search documentation..." className="h-8 w-[200px] lg:w-[250px]" />
           </div>
           <Button variant="ghost" size="icon">
-            <a href=""><Github className="h-5 w-5" /></a>
+            <Link href="https://github.com/polbesalu/components-ui-landing"><Github className="h-5 w-5" /></Link>
             <span className="sr-only">GitHub</span>
           </Button>
           <ThemeToggle />
