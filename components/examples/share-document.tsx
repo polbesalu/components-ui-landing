@@ -22,9 +22,9 @@ export function ShareDocument() {
           <h4 className="text-sm font-medium">People with access</h4>
           <div className="grid gap-4">
             {[
-              { name: "Olivia Martin", email: "m@example.com" },
-              { name: "Isabella Nguyen", email: "b@example.com" },
-              { name: "Sofia Davis", email: "p@example.com" },
+              { name: "Frank James", email: "fj@example.com" },
+              { name: "Maria Fritz", email: "mf@example.com" },
+              { name: "Ferb Langdon", email: "fl@example.com" },
             ].map((person) => (
               <div key={person.email} className="flex items-center justify-between space-x-4">
                 <div className="flex items-center space-x-4">

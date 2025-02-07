@@ -9,23 +9,23 @@ import { MoreHorizontal } from "lucide-react"
 const payments = [
   {
     status: "Success",
-    email: "ken99@yahoo.com",
-    amount: "$316.00",
+    email: "mark@example.com",
+    amount: "$435.00",
   },
   {
     status: "Success",
-    email: "abe45@gmail.com",
-    amount: "$242.00",
+    email: "alex@example.com",
+    amount: "$89.74",
   },
   {
     status: "Processing",
-    email: "monserrat44@gmail.com",
-    amount: "$837.00",
+    email: "laura@example.com",
+    amount: "$934.20",
   },
   {
     status: "Failed",
-    email: "carmella@hotmail.com",
-    amount: "$721.00",
+    email: "leo@example.com",
+    amount: "$651.03",
   },
 ]
 
